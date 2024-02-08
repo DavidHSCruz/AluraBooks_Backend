@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Java Concurrency in Practice",
+    "autor": "Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",
+    "ano_publicacao": 2006,
+    "linguagem": "Java",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Fluent Python: Clear, Concise, and Effective Programming",
+    "autor": "Luciano Ramalho",
+    "ano_publicacao": 2015,
+    "linguagem": "Python",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "autor": "Marijn Haverbeke",
+    "ano_publicacao": 2018,
+    "linguagem": "JavaScript",
+    "categoria": "Desenvolvimento Web"
+  },
+  {
+    "titulo": "C# 9.0 in a Nutshell: The Definitive Reference",
+    "autor": "Joseph Albahari, Ben Albahari",
+    "ano_publicacao": 2020,
+    "linguagem": "C#",
+    "categoria": ".NET"
+  },
+  {
+    "titulo": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
+    "autor": "Donald E. Knuth",
+    "ano_publicacao": 2011,
+    "linguagem": "Geral",
+    "categoria": "Algoritmos e Estruturas de Dados"
+  }
+]

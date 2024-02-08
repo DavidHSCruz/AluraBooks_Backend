@@ -1,104 +1,114 @@
 [
-    {
-      "id": 1,
-      "nome": "Clean Code: A Handbook of Agile Software Craftsmanship",
-      "autor": "Robert C. Martin"
-    },
-    {
-      "id": 2,
-      "nome": "Design Patterns: Elements of Reusable Object-Oriented Software",
-      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides"
-    },
-    {
-      "id": 3,
-      "nome": "The Pragmatic Programmer: Your Journey To Mastery",
-      "autor": "Andrew Hunt, David Thomas"
-    },
-    {
-      "id": 4,
-      "nome": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
-      "autor": "Gayle Laakmann McDowell"
-    },
-    {
-      "id": 5,
-      "nome": "Introduction to the Theory of Computation",
-      "autor": "Michael Sipser"
-    },
-    {
-      "id": 6,
-      "nome": "Code: The Hidden Language of Computer Hardware and Software",
-      "autor": "Charles Petzold"
-    },
-    {
-      "id": 7,
-      "nome": "The Mythical Man-Month: Essays on Software Engineering",
-      "autor": "Frederick P. Brooks Jr."
-    },
-    {
-      "id": 8,
-      "nome": "Refactoring: Improving the Design of Existing Code",
-      "autor": "Martin Fowler"
-    },
-    {
-      "id": 9,
-      "nome": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
-      "autor": "Eric Evans"
-    },
-    {
-      "id": 10,
-      "nome": "Head First Design Patterns",
-      "autor": "Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra"
-    },
-    {
-      "id": 11,
-      "nome": "Structure and Interpretation of Computer Programs",
-      "autor": "Harold Abelson, Gerald Jay Sussman"
-    },
-    {
-      "id": 12,
-      "nome": "The Art of Computer Programming",
-      "autor": "Donald E. Knuth"
-    },
-    {
-      "id": 13,
-      "nome": "Programming Pearls",
-      "autor": "Jon Bentley"
-    },
-    {
-      "id": 14,
-      "nome": "Computer Networking: A Top-Down Approach",
-      "autor": "James F. Kurose, Keith W. Ross"
-    },
-    {
-      "id": 15,
-      "nome": "Artificial Intelligence: A Modern Approach",
-      "autor": "James F. Kurose, Keith W. Ross"
-    },
-    {
-      "id": 16,
-      "nome": "Artificial Intelligence: A Modern Approach",
-      "autor": "Stuart Russell, Peter Norvig"
-    },
-    {
-      "id": 17,
-      "nome": "Database Management Systems",
-      "autor": "Raghu Ramakrishnan, Johannes Gehrke"
-    },
-    {
-      "id": 18,
-      "nome": "Operating System Concepts",
-      "autor": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne"
-    },
-    {
-      "id": 19,
-      "nome": "Information Retrieval: Implementing and Evaluating Search Engines",
-      "autor": "Stefan Büttcher, Charles L. A. Clarke, Gordon V. Cormack"
-    },
-    {
-      "id": 20,
-      "nome": "The C Programming Language",
-      "autor": "Brian W. Kernighan, Dennis M. Ritchie"
-    }
-      
+  {
+    "titulo": "Effective Java",
+    "autor": "Joshua Bloch",
+    "ano_publicacao": 2017,
+    "linguagem": "Java",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Java Concurrency in Practice",
+    "autor": "Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",
+    "ano_publicacao": 2006,
+    "linguagem": "Java",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Fluent Python: Clear, Concise, and Effective Programming",
+    "autor": "Luciano Ramalho",
+    "ano_publicacao": 2015,
+    "linguagem": "Python",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Python Crash Course",
+    "autor": "Eric Matthes",
+    "ano_publicacao": 2015,
+    "linguagem": "Python",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "autor": "Marijn Haverbeke",
+    "ano_publicacao": 2018,
+    "linguagem": "JavaScript",
+    "categoria": "Desenvolvimento Web"
+  },
+  {
+    "titulo": "You Don't Know JS (book series)",
+    "autor": "Kyle Simpson",
+    "ano_publicacao": 2014,
+    "linguagem": "JavaScript",
+    "categoria": "Desenvolvimento Web"
+  },
+  {
+    "titulo": "C# 9.0 in a Nutshell: The Definitive Reference",
+    "autor": "Joseph Albahari, Ben Albahari",
+    "ano_publicacao": 2020,
+    "linguagem": "C#",
+    "categoria": ".NET"
+  },
+  {
+    "titulo": "Pro C# 7: With .NET and .NET Core",
+    "autor": "Andrew Troelsen, Philip Japikse",
+    "ano_publicacao": 2017,
+    "linguagem": "C#",
+    "categoria": ".NET"
+  },
+  {
+    "titulo": "The Pragmatic Programmer: Your Journey to Mastery",
+    "autor": "Andrew Hunt, David Thomas",
+    "ano_publicacao": 1999,
+    "linguagem": "Geral",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "ano_publicacao": 1994,
+    "linguagem": "Geral",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "autor": "Robert C. Martin",
+    "ano_publicacao": 2008,
+    "linguagem": "Geral",
+    "categoria": "Desenvolvimento de Software"
+  },
+  {
+    "titulo": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+    "autor": "Gene Kim, Kevin Behr, George Spafford",
+    "ano_publicacao": 2013,
+    "linguagem": "Geral",
+    "categoria": "DevOps"
+  },
+  {
+    "titulo": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "autor": "Gayle Laakmann McDowell",
+    "ano_publicacao": 2015,
+    "linguagem": "Geral",
+    "categoria": "Entrevistas de Emprego em Tecnologia"
+  },
+  {
+    "titulo": "Code: The Hidden Language of Computer Hardware and Software",
+    "autor": "Charles Petzold",
+    "ano_publicacao": 1999,
+    "linguagem": "Geral",
+    "categoria": "Ciência da Computação"
+  },
+  {
+    "titulo": "Introduction to the Theory of Computation",
+    "autor": "Michael Sipser",
+    "ano_publicacao": 2012,
+    "linguagem": "Geral",
+    "categoria": "Ciência da Computação"
+  },
+  {
+    "titulo": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
+    "autor": "Donald E. Knuth",
+    "ano_publicacao": 2011,
+    "linguagem": "Geral",
+    "categoria": "Algoritmos e Estruturas de Dados"
+  }
 ]
-  

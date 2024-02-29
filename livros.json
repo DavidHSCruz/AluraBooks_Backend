@@ -1,113 +1,129 @@
 [
   {
+    "id": "16",
     "titulo": "Effective Java",
     "autor": "Joshua Bloch",
-    "ano_publicacao": 2017,
+    "ano_publicacao": "2017",
     "linguagem": "Java",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "1",
     "titulo": "Java Concurrency in Practice",
     "autor": "Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",
-    "ano_publicacao": 2006,
+    "ano_publicacao": "2006",
     "linguagem": "Java",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "2",
     "titulo": "Fluent Python: Clear, Concise, and Effective Programming",
     "autor": "Luciano Ramalho",
-    "ano_publicacao": 2015,
+    "ano_publicacao": "2015",
     "linguagem": "Python",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "3",
     "titulo": "Python Crash Course",
     "autor": "Eric Matthes",
-    "ano_publicacao": 2015,
+    "ano_publicacao": "2015",
     "linguagem": "Python",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "4",
     "titulo": "Eloquent JavaScript: A Modern Introduction to Programming",
     "autor": "Marijn Haverbeke",
-    "ano_publicacao": 2018,
+    "ano_publicacao": "2018",
     "linguagem": "JavaScript",
     "categoria": "Desenvolvimento Web"
   },
   {
+    "id": "5",
     "titulo": "You Don't Know JS (book series)",
     "autor": "Kyle Simpson",
-    "ano_publicacao": 2014,
+    "ano_publicacao": "2014",
     "linguagem": "JavaScript",
     "categoria": "Desenvolvimento Web"
   },
   {
+    "id": "6",
     "titulo": "C# 9.0 in a Nutshell: The Definitive Reference",
     "autor": "Joseph Albahari, Ben Albahari",
-    "ano_publicacao": 2020,
+    "ano_publicacao": "2020",
     "linguagem": "C#",
     "categoria": ".NET"
   },
   {
+    "id": "7",
     "titulo": "Pro C# 7: With .NET and .NET Core",
     "autor": "Andrew Troelsen, Philip Japikse",
-    "ano_publicacao": 2017,
+    "ano_publicacao": "2017",
     "linguagem": "C#",
     "categoria": ".NET"
   },
   {
+    "id": "8",
     "titulo": "The Pragmatic Programmer: Your Journey to Mastery",
     "autor": "Andrew Hunt, David Thomas",
-    "ano_publicacao": 1999,
+    "ano_publicacao": "1999",
     "linguagem": "Geral",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "9",
     "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
     "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
-    "ano_publicacao": 1994,
+    "ano_publicacao": "1994",
     "linguagem": "Geral",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "10",
     "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
     "autor": "Robert C. Martin",
-    "ano_publicacao": 2008,
+    "ano_publicacao": "2008",
     "linguagem": "Geral",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "11",
     "titulo": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
     "autor": "Gene Kim, Kevin Behr, George Spafford",
-    "ano_publicacao": 2013,
+    "ano_publicacao": "2013",
     "linguagem": "Geral",
     "categoria": "DevOps"
   },
   {
+    "id": "12",
     "titulo": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
     "autor": "Gayle Laakmann McDowell",
-    "ano_publicacao": 2015,
+    "ano_publicacao": "2015",
     "linguagem": "Geral",
     "categoria": "Entrevistas de Emprego em Tecnologia"
   },
   {
+    "id": "13",
     "titulo": "Code: The Hidden Language of Computer Hardware and Software",
     "autor": "Charles Petzold",
-    "ano_publicacao": 1999,
+    "ano_publicacao": "1999",
     "linguagem": "Geral",
     "categoria": "Ciência da Computação"
   },
   {
+    "id": "14",
     "titulo": "Introduction to the Theory of Computation",
     "autor": "Michael Sipser",
-    "ano_publicacao": 2012,
+    "ano_publicacao": "2012",
     "linguagem": "Geral",
     "categoria": "Ciência da Computação"
   },
   {
+    "id": "15",
     "titulo": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
     "autor": "Donald E. Knuth",
-    "ano_publicacao": 2011,
+    "ano_publicacao": "2011",
     "linguagem": "Geral",
     "categoria": "Algoritmos e Estruturas de Dados"
   }

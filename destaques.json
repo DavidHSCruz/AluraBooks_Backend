@@ -1,37 +1,42 @@
 [
   {
-    "titulo": "Java Concurrency in Practice",
-    "autor": "Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",
-    "ano_publicacao": 2006,
+    "id": "16",
+    "titulo": "Effective Java",
+    "autor": "Joshua Bloch",
+    "ano_publicacao": "2017",
     "linguagem": "Java",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "2",
     "titulo": "Fluent Python: Clear, Concise, and Effective Programming",
     "autor": "Luciano Ramalho",
-    "ano_publicacao": 2015,
+    "ano_publicacao": "2015",
     "linguagem": "Python",
     "categoria": "Desenvolvimento de Software"
   },
   {
+    "id": "4",
     "titulo": "Eloquent JavaScript: A Modern Introduction to Programming",
     "autor": "Marijn Haverbeke",
-    "ano_publicacao": 2018,
+    "ano_publicacao": "2018",
     "linguagem": "JavaScript",
     "categoria": "Desenvolvimento Web"
   },
   {
+    "id": "6",
     "titulo": "C# 9.0 in a Nutshell: The Definitive Reference",
     "autor": "Joseph Albahari, Ben Albahari",
-    "ano_publicacao": 2020,
+    "ano_publicacao": "2020",
     "linguagem": "C#",
     "categoria": ".NET"
   },
   {
-    "titulo": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
-    "autor": "Donald E. Knuth",
-    "ano_publicacao": 2011,
+    "id": "8",
+    "titulo": "The Pragmatic Programmer: Your Journey to Mastery",
+    "autor": "Andrew Hunt, David Thomas",
+    "ano_publicacao": "1999",
     "linguagem": "Geral",
-    "categoria": "Algoritmos e Estruturas de Dados"
+    "categoria": "Desenvolvimento de Software"
   }
 ]

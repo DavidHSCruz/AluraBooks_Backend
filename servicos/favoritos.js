@@ -9,7 +9,7 @@ function insereFavorito(id) {
     const livroPorId = livros.filter( livro => livro.id === id )
     const favoritos = JSON.parse(fs.readFileSync('favoritos.json'))
 
-    const novaListaDeFavoritos = [ ...favoritos, livroPorId ]
+    const novaListaDeFavoritos = [ ...favoritos, livroPorId[0] ]
 
     fs.writeFileSync('favoritos.json', JSON.stringify(novaListaDeFavoritos))
 }

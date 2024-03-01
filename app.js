@@ -13,7 +13,7 @@ app.use('/livros', rotaLivro)
 app.use('/favoritos', rotaFavoritos)
 app.use('/destaques', rotaDestaques)
 
-const port = 8000
+const port = process.env.PORT || 8000
 
 app.listen(port, () => {
   console.log(`Escutando a porta ${port}`)

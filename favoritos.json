@@ -1,1 +1,18 @@
-[{"id":"15","titulo":"The Art of Computer Programming, Volumes 1-4A Boxed Set","autor":"Donald E. Knuth","ano_publicacao":"2011","linguagem":"Geral","categoria":"Algoritmos e Estruturas de Dados"},{"id":"7","titulo":"Pro C# 7: With .NET and .NET Core","autor":"Andrew Troelsen, Philip Japikse","ano_publicacao":"2017","linguagem":"C#","categoria":".NET"}]
+[
+  {
+    "id": "15",
+    "titulo": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
+    "autor": "Donald E. Knuth",
+    "ano_publicacao": "2011",
+    "linguagem": "Geral",
+    "categoria": "Algoritmos e Estruturas de Dados"
+  },
+  {
+    "id": "7",
+    "titulo": "Pro C# 7: With .NET and .NET Core",
+    "autor": "Andrew Troelsen, Philip Japikse",
+    "ano_publicacao": "2017",
+    "linguagem": "C#",
+    "categoria": ".NET"
+  }
+]

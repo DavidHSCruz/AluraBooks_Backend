@@ -5,7 +5,11 @@
             "src": "app.js",
             "use": "@vercel/node",
             "config": {
-                "includeFiles": ["livros.json"]
+                "includeFiles": [
+                    "livros.json",
+                    "destaques.json",
+                    "favoritos.json"
+                ]
             }
         }
     ],

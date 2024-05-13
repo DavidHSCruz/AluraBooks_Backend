@@ -4,7 +4,9 @@
         {
             "src": "app.js",
             "use": "@vercel/node",
-            "config": ["livros.json"]
+            "config": {
+                "includeFiles": ["livros.json"]
+            }
         }
     ],
     "routes": [
